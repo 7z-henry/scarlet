@@ -3,9 +3,9 @@
         "repoName": "7z",
         "repoIcon": "https://7z-henry.github.io/scarlet/icon.png"
     },
-    "Tweaked": [{
+    "Essential": [{
         "name": "Postbox",
-        "version": "Beta 7",
+        "version": "Beta_7",
         "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/04/c8/14/04c814a2-13fd-e2b1-0839-72bd50910ac9/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/1920x1080bb-80.png",
         "down": "https://cdn.discordapp.com/attachments/711715470763491370/871602763522539570/PostBox.ipa",
         "category": "Tweaked Apps",
@@ -16,7 +16,8 @@
             "web": "https://7zz.shop/discord",
             "twitter": "https://twitter.com/7z_henry"
         }
-    }, {
+    }],
+    "Hacked Games": [{
         "name": "Nulls Clash",
         "version": "14.426",
         "icon": "https://nulls.gg/assets/img/nc-icon.png",
