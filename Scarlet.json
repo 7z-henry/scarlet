@@ -1,7 +1,7 @@
 {
     "META": {
-        "repoName": "7z Repo",
-        "repoIcon": "https://7zz.shop/assets/icons/icon.png"
+        "repoName": "7z",
+        "repoIcon": "https://7z-henry.github.io/scarlet/icon.png"
     },
     "Tweaked": [{
         "name": "Postbox",
