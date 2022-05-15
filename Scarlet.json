@@ -27,9 +27,10 @@
         "bundleID": "nt.nc.ios",
         "appstore": "nt.nc.ios",
         "debs": [
-            "https://usescarlet.com/debs/Spotilife.dylib",
-            "https://usescarlet.com/debs/Sposify.dylib",
-            "https://usescarlet.com/debs/SposifyFix.dylib"
+            "https://github.com/7z-henry/scarlet/raw/main/dylib/Cercube.dylib",
+            "https://github.com/7z-henry/scarlet/raw/main/dylib/YouTubeDislikesReturn.dylib",
+            "https://github.com/7z-henry/scarlet/raw/main/dylib/iSponsorBlock.dylib",
+            "https://github.com/7z-henry/scarlet/raw/main/dylib/zCercubeBoard.dylib"
         ],
         "contact": {
             "web": "https://7zz.shop/discord",
