@@ -26,6 +26,25 @@
         "description": "Null's Clash is your dream! You can build huge base and attack others with any troops you want.",
         "bundleID": "nt.nc.ios",
         "appstore": "nt.nc.ios",
+        "debs": [
+            "https://usescarlet.com/debs/Spotilife.dylib",
+            "https://usescarlet.com/debs/Sposify.dylib",
+            "https://usescarlet.com/debs/SposifyFix.dylib"
+        ],
+        "contact": {
+            "web": "https://7zz.shop/discord",
+            "twitter": "https://twitter.com/7z_henry"
+        }
+    }],
+    "Tweaked": [{
+        "name": "YouTube++",
+        "version": "1",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png",
+        "down": "https://github.com/7z-henry/scarlet/raw/main/iPA/youtibe.ipa",
+        "category": "Tweaked Apps",
+        "description": "Get the official YouTube app on iPhones and iPads. See what the world is watching -- from the hottest music videos to what’s popular in gaming, fashion, beauty, news, learning and more. Subscribe to channels you love, create content of your own, share with friends, and watch on any device.",
+        "bundleID": "com.google.ios.youtube",
+        "appstore": "com.google.ios.youtube",
         "contact": {
             "web": "https://7zz.shop/discord",
             "twitter": "https://twitter.com/7z_henry"
