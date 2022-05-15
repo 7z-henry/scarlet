@@ -16,5 +16,18 @@
             "web": "https://7zz.shop/discord",
             "twitter": "https://twitter.com/7z_henry"
         }
+    }, {
+        "name": "Nulls Clash",
+        "version": "14.426",
+        "icon": "https://nulls.gg/assets/img/nc-icon.png",
+        "down": "https://dnull.xyz/latest_coc_i",
+        "category": "Tweaked Apps",
+        "description": "Null's Clash is your dream! You can build huge base and attack others with any troops you want.",
+        "bundleID": "nt.nc.ios",
+        "appstore": "nt.nc.ios",
+        "contact": {
+            "web": "https://7zz.shop/discord",
+            "twitter": "https://twitter.com/7z_henry"
+        }
     }]
 }
