@@ -1,0 +1,20 @@
+{
+    "META": {
+        "repoName": "7z Repo",
+        "repoIcon": "https://7zz.shop/assets/icons/icon.png"
+    },
+    "Tweaked": [{
+        "name": "Postbox",
+        "version": "Beta 7",
+        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/04/c8/14/04c814a2-13fd-e2b1-0839-72bd50910ac9/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/1920x1080bb-80.png",
+        "down": "https://cdn.discordapp.com/attachments/711715470763491370/871602763522539570/PostBox.ipa",
+        "category": "Tweaked Apps",
+        "description": "PostBox enables support for third-party jailbreak sources such as r/jailbreak and iDownloadBlog. More content will be coming soon in the future.",
+        "bundleID": "com.simplycode.PostBox",
+        "appstore": "com.simplycode.PostBox",
+        "contact": {
+            "web": "https://7zz.shop/discord",
+            "twitter": "https://twitter.com/7z_henry"
+        }
+    }]
+}
