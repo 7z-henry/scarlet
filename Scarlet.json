@@ -26,12 +26,6 @@
         "description": "Null's Clash is your dream! You can build huge base and attack others with any troops you want.",
         "bundleID": "nt.nc.ios",
         "appstore": "nt.nc.ios",
-        "debs": [
-            "https://github.com/7z-henry/scarlet/raw/main/dylib/Cercube.dylib",
-            "https://github.com/7z-henry/scarlet/raw/main/dylib/YouTubeDislikesReturn.dylib",
-            "https://github.com/7z-henry/scarlet/raw/main/dylib/iSponsorBlock.dylib",
-            "https://github.com/7z-henry/scarlet/raw/main/dylib/zCercubeBoard.dylib"
-        ],
         "contact": {
             "web": "https://7zz.shop/discord",
             "twitter": "https://twitter.com/7z_henry"
@@ -46,6 +40,12 @@
         "description": "Get the official YouTube app on iPhones and iPads. See what the world is watching -- from the hottest music videos to what’s popular in gaming, fashion, beauty, news, learning and more. Subscribe to channels you love, create content of your own, share with friends, and watch on any device.",
         "bundleID": "com.google.ios.youtube",
         "appstore": "com.google.ios.youtube",
+        "debs": [
+            "https://github.com/7z-henry/scarlet/raw/main/dylib/Cercube.dylib",
+            "https://github.com/7z-henry/scarlet/raw/main/dylib/YouTubeDislikesReturn.dylib",
+            "https://github.com/7z-henry/scarlet/raw/main/dylib/iSponsorBlock.dylib",
+            "https://github.com/7z-henry/scarlet/raw/main/dylib/zCercubeBoard.dylib"
+        ],
         "contact": {
             "web": "https://7zz.shop/discord",
             "twitter": "https://twitter.com/7z_henry"
