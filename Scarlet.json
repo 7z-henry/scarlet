@@ -44,6 +44,7 @@
         "version": "14.426",
         "icon": "https://nulls.gg/assets/img/nc-icon.png",
         "down": "https://dnull.xyz/latest_coc_i",
+        "dev": "7z",
         "category": "Tweaked Apps",
         "description": "Null's Clash is your dream! You can build huge base and attack others with any troops you want.",
         "bundleID": "nt.nc.ios",
