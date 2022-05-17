@@ -1,0 +1,57 @@
+{
+    "META": {
+        "repoName": "7z",
+        "repoIcon": "https://7z-henry.github.io/scarlet/icon.png"
+    },
+    "Tweaked": [{
+        "name": "YouTube++",
+        "version": "1",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png",
+        "down": "https://github.com/7z-henry/scarlet/raw/main/iPA/youtibe.ipa",
+        "category": "Tweaked Apps",
+        "description": "Get the official YouTube app on iPhones and iPads. See what the world is watching -- from the hottest music videos to what’s popular in gaming, fashion, beauty, news, learning and more. Subscribe to channels you love, create content of your own, share with friends, and watch on any device.",
+        "bundleID": "com.google.ios.youtube",
+        "appstore": "com.google.ios.youtube",
+        "debs": [
+            "https://github.com/7z-henry/scarlet/raw/main/dylib/Cercube.dylib",
+            "https://github.com/7z-henry/scarlet/raw/main/dylib/YouTubeDislikesReturn.dylib",
+            "https://github.com/7z-henry/scarlet/raw/main/dylib/iSponsorBlock.dylib",
+            "https://github.com/7z-henry/scarlet/raw/main/dylib/zCercubeBoard.dylib"
+        ],
+        "contact": {
+            "web": "https://7zz.shop/discord",
+            "twitter": "https://twitter.com/7z_henry"
+        }
+    }],
+    "Essential": [{
+        "name": "Postbox",
+        "version": "1",
+        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/04/c8/14/04c814a2-13fd-e2b1-0839-72bd50910ac9/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/1920x1080bb-80.png",
+        "down": "https://cdn.discordapp.com/attachments/711715470763491370/871602763522539570/PostBox.ipa",
+        "dev": "7z",
+        "category": "Tweaked Apps",
+        "description": "PostBox enables support for third-party jailbreak sources such as r/jailbreak and iDownloadBlog. More content will be coming soon in the future.",
+        "bundleID": "com.simplycode.PostBox",
+        "appstore": "com.simplycode.PostBox",
+        "banner": "https://cdn.upload.systems/uploads/6wJLsnus.png",
+        "contact": {
+            "web": "https://7zz.shop/discord",
+            "twitter": "https://twitter.com/7z_henry"
+        }
+    }],
+    "Hacked Games": [{
+        "name": "Nulls Clash",
+        "version": "14.426",
+        "icon": "https://nulls.gg/assets/img/nc-icon.png",
+        "down": "https://dnull.xyz/latest_coc_i",
+        "dev": "7z",
+        "category": "Tweaked Apps",
+        "description": "Null's Clash is your dream! You can build huge base and attack others with any troops you want.",
+        "bundleID": "nt.nc.ios",
+        "appstore": "com.supercell.magic",
+        "contact": {
+            "web": "https://7zz.shop/discord",
+            "twitter": "https://twitter.com/7z_henry"
+        }
+    }]
+}
