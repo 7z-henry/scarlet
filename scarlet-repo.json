@@ -32,7 +32,13 @@
         "category": "Tweaked Apps",
         "description": "PostBox enables support for third-party jailbreak sources such as r/jailbreak and iDownloadBlog. More content will be coming soon in the future.",
         "bundleID": "com.simplycode.PostBox",
-        "appstore": "com.simplycode.PostBox",
+        "screenshots": [
+            "https://github.com/7z-henry/scarlet/blob/main/img/Today.PNG?raw=true",
+            "https://github.com/7z-henry/scarlet/blob/main/img/Packages.PNG?raw=true",
+            "https://github.com/7z-henry/scarlet/blob/main/img/Repos.PNG?raw=true",
+            "https://github.com/7z-henry/scarlet/blob/main/img/Search.PNG?raw=true"
+
+        ],
         "banner": "https://cdn.upload.systems/uploads/6wJLsnus.png",
         "contact": {
             "web": "https://7zz.shop/discord",
