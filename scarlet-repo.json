@@ -17,7 +17,21 @@
         "contact": {
             "web": "https://7zz.shop/discord",
             "twitter": "https://twitter.com/7z_henry"
-        }
+        },
+	{
+    "name": "Twitch++",
+    "version": "1",
+    "icon": "https://static.appdb.to/images/cydia-1900000809-icon-1619548742.png",
+    "down": "https://github.com/7z-henry/scarlet/raw/main/iPA/Twitch++.ipa",
+    "dev": "7z",
+    "category": "Tweaked Apps",
+    "description": "Catch the action as it happens! Access all the content you care about, from frenetic Overwatch multiplayer matches to soothing Bob Ross art demos. With millions of unique streamers every day playing everything under the sun, if it’s worth watching, it’s live on Twitch right now.",
+    "bundleID": "tv.twitch",
+    "appstore": "tv.twitch",
+    "banner": "https://images.cgames.de/images/gamestar/4/twitch-brechen-die-zuschauer-weg-teaserbild_6151680.jpg",
+"contact":  {
+        "web": "https://7zz.shop/discord",
+        "twitter": "https://twitter.com/7z_henry"}}
     }],
 	"Jailbreaks": [{
 			"name": "Taurine",
