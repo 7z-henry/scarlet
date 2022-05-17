@@ -29,10 +29,10 @@
     "bundleID": "tv.twitch",
     "appstore": "tv.twitch",
     "banner": "https://images.cgames.de/images/gamestar/4/twitch-brechen-die-zuschauer-weg-teaserbild_6151680.jpg",
-"contact":  {
-        "web": "https://7zz.shop/discord",
-        "twitter": "https://twitter.com/7z_henry"}}
-    }],
+	"contact":  {
+        	"web": "https://7zz.shop/discord",
+        	"twitter": "https://twitter.com/7z_henry"}
+    ],
 	"Jailbreaks": [{
 			"name": "Taurine",
 			"version": "1.1.3",
