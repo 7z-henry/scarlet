@@ -49,20 +49,5 @@
             "web": "https://7zz.shop/discord",
             "twitter": "https://twitter.com/7z_henry"
         }
-    }, {
-        "name": "Enmity",
-        "version": "126",
-        "icon": "https://static.appdb.to/images/cydia-1900000887-icon-1649794607.png",
-        "down": "https://cdn-141.bayfiles.com/3034l6Xbxa/3c59b590-1652802643/Enmity.ipa",
-        "dev": "7z",
-        "category": "Tweaked Apps",
-        "description": "Enmity for discord is a tweaked app that allows you to use plugins & themes. ",
-        "bundleID": "com.hammerandchisel.discord",
-        "appstore": "com.hammerandchisel.discord",
-        "banner": "https://i1.wp.com/gamodrome.de/wp-content/uploads/2019/06/Discord-Banner.png?ssl=1",
-        "contact": {
-            "web": "https://7zz.shop/discord",
-            "twitter": "https://twitter.com/7z_henry"
-        }
     }]
 }
